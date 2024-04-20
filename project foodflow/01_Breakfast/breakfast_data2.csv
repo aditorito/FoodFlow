@@ -1,0 +1,366 @@
+Date,Day,Breakfast,Plates in Phase 1,Plates in Phase 2,Plates in Phase 3,Plates in Phase 4,Plate Dum,Event,Next Day Reduction,Total Students
+2022-04-01,weekday,"Aloo Paratha, Curd, Orange",130,409,488,486,1536,False,False,1513
+2022-04-02,weekend,"Aloo Paratha, Curd, Orange",64,536,326,576,1519,False,False,1502
+2022-04-03,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",21,431,352,539,1367,False,False,1343
+2022-04-04,weekday,"Pao, Bhaji and Mix Fruit",122,497,489,472,1602,False,False,1580
+2022-04-05,weekday,Vermicelli Upma and Mix Fruits,93,513,398,542,1561,False,False,1546
+2022-04-06,weekday,Sooji Upma and Peanut Chutney,117,484,354,537,1518,False,False,1492
+2022-04-07,weekday,"Poori Matar Masala, Boiled Egg and Banana",66,273,230,326,922,True,True,895
+2022-04-08,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",82,584,361,571,1633,False,False,1598
+2022-04-09,weekend,Sooji Upma and Peanut Chutney,98,430,453,587,1609,False,False,1568
+2022-04-10,weekend,Sooji Upma and Peanut Chutney,56,519,408,453,1469,False,False,1436
+2022-04-11,weekday,Vermicelli Upma and Mix Fruits,111,462,476,571,1638,False,False,1620
+2022-04-12,weekday,Vermicelli Upma and Mix Fruits,126,576,344,593,1653,False,False,1639
+2022-04-13,weekday,"Poori Matar Masala, Boiled Egg and Banana",78,425,468,541,1537,False,False,1512
+2022-04-14,weekday,"Aloo Paratha, Curd, Orange",122,539,322,504,1512,False,False,1487
+2022-04-15,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",78,363,208,356,1046,True,True,1005
+2022-04-16,weekend,"Poha, Egg Bhurji, Mix Fruit",42,474,456,496,1492,False,False,1468
+2022-04-17,weekend,"Poha, Egg Bhurji, Mix Fruit",18,333,216,294,903,True,True,861
+2022-04-18,weekday,"Pao, Bhaji and Mix Fruit",77,462,345,491,1391,False,False,1375
+2022-04-19,weekday,"Pao, Bhaji and Mix Fruit",99,514,390,540,1567,False,False,1543
+2022-04-20,weekday,"Poha, Egg Bhurji, Mix Fruit",118,452,472,554,1615,False,False,1596
+2022-04-21,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",125,511,373,460,1499,False,False,1469
+2022-04-22,weekday,"Pao, Bhaji and Mix Fruit",119,506,412,533,1583,False,False,1570
+2022-04-23,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",7,417,377,519,1345,False,False,1320
+2022-04-24,weekend,"Poha, Egg Bhurji, Mix Fruit",48,518,377,528,1499,False,False,1471
+2022-04-25,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",86,477,495,584,1666,False,False,1642
+2022-04-26,weekday,"Pao, Bhaji and Mix Fruit",89,462,411,478,1474,False,False,1440
+2022-04-27,weekday,Vermicelli Upma and Mix Fruits,78,436,341,542,1428,False,False,1397
+2022-04-28,weekday,"Pao, Bhaji and Mix Fruit",124,579,390,535,1642,False,False,1628
+2022-04-29,weekday,Vermicelli Upma and Mix Fruits,78,419,330,596,1466,False,False,1423
+2022-04-30,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",4,341,239,282,882,True,True,866
+2022-05-01,weekend,Sooji Upma and Peanut Chutney,39,496,408,547,1535,False,False,1490
+2022-05-02,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",104,580,457,597,1753,False,False,1738
+2022-05-03,weekday,Vermicelli Upma and Mix Fruits,85,577,394,585,1686,False,False,1641
+2022-05-04,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",119,506,449,534,1656,False,False,1608
+2022-05-05,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",90,542,463,492,1602,False,False,1587
+2022-05-06,weekday,"Poha, Egg Bhurji, Mix Fruit",90,498,338,502,1465,False,False,1428
+2022-05-07,weekend,"Aloo Paratha, Curd, Orange",130,515,447,534,1652,False,False,1626
+2022-05-08,weekend,"Poori Matar Masala, Boiled Egg and Banana",100,474,486,550,1627,False,False,1610
+2022-05-09,weekday,"Aloo Paratha, Curd, Orange",116,479,428,484,1549,False,False,1507
+2022-05-10,weekday,"Pao, Bhaji and Mix Fruit",83,562,474,544,1698,False,False,1663
+2022-05-11,weekday,"Poha, Egg Bhurji, Mix Fruit",130,422,412,534,1535,False,False,1498
+2022-05-12,weekday,"Aloo Paratha, Curd, Orange",81,523,357,568,1551,False,False,1529
+2022-05-13,weekday,Sooji Upma and Peanut Chutney,113,454,489,592,1660,False,False,1648
+2022-05-14,weekend,Sooji Upma and Peanut Chutney,1,546,451,567,1585,False,False,1565
+2022-05-15,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",41,591,314,528,1500,False,False,1474
+2022-05-16,weekday,Sooji Upma and Peanut Chutney,89,419,413,470,1431,False,False,1391
+2022-05-17,weekday,Sooji Upma and Peanut Chutney,103,584,424,460,1603,False,False,1571
+2022-05-18,weekday,"Poori Matar Masala, Boiled Egg and Banana",107,573,472,489,1673,False,False,1641
+2022-05-19,weekday,"Aloo Paratha, Curd, Orange",84,560,447,483,1616,False,False,1574
+2022-05-20,weekday,"Pao, Bhaji and Mix Fruit",78,560,412,512,1583,False,False,1562
+2022-05-21,weekend,Vermicelli Upma and Mix Fruits,31,539,444,525,1560,False,False,1539
+2022-05-22,weekend,"Pao, Bhaji and Mix Fruit",6,557,329,497,1403,False,False,1389
+2022-05-23,weekday,"Pao, Bhaji and Mix Fruit",115,401,378,560,1481,False,False,1454
+2022-05-24,weekday,"Poori Matar Masala, Boiled Egg and Banana",46,336,250,305,972,True,True,937
+2022-05-25,weekday,"Poha, Egg Bhurji, Mix Fruit",84,495,468,479,1554,False,False,1526
+2022-05-26,weekday,Sooji Upma and Peanut Chutney,128,452,458,600,1674,False,False,1638
+2022-05-27,weekday,Vermicelli Upma and Mix Fruits,116,537,352,460,1503,False,False,1465
+2022-05-28,weekend,Sooji Upma and Peanut Chutney,106,420,371,495,1436,False,False,1392
+2022-05-29,weekend,"Aloo Paratha, Curd, Orange",124,584,310,592,1644,False,False,1610
+2022-05-30,weekday,"Poori Matar Masala, Boiled Egg and Banana",128,438,302,551,1434,False,False,1419
+2022-05-31,weekday,"Aloo Paratha, Curd, Orange",99,438,438,522,1535,False,False,1497
+2022-06-01,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",113,425,370,582,1501,False,False,1490
+2022-06-02,weekday,"Pao, Bhaji and Mix Fruit",120,547,486,461,1635,False,False,1614
+2022-06-03,weekday,"Pao, Bhaji and Mix Fruit",93,478,343,458,1416,False,False,1372
+2022-06-04,weekend,Vermicelli Upma and Mix Fruits,93,592,343,481,1522,False,False,1509
+2022-06-05,weekend,"Poha, Egg Bhurji, Mix Fruit",33,420,363,534,1368,False,False,1350
+2022-06-06,weekday,"Poori Matar Masala, Boiled Egg and Banana",102,485,322,562,1518,False,False,1471
+2022-06-07,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",98,530,429,581,1677,False,False,1638
+2022-06-08,weekday,"Poori Matar Masala, Boiled Egg and Banana",82,411,481,599,1604,False,False,1573
+2022-06-09,weekday,Vermicelli Upma and Mix Fruits,112,520,405,510,1593,False,False,1547
+2022-06-10,weekday,"Pao, Bhaji and Mix Fruit",97,491,338,467,1424,False,False,1393
+2022-06-11,weekend,Sooji Upma and Peanut Chutney,72,590,322,541,1544,False,False,1525
+2022-06-12,weekend,"Aloo Paratha, Curd, Orange",78,295,270,342,1015,True,True,985
+2022-06-13,weekday,Vermicelli Upma and Mix Fruits,108,429,478,562,1608,False,False,1577
+2022-06-14,weekday,"Poori Matar Masala, Boiled Egg and Banana",49,254,226,326,865,True,True,855
+2022-06-15,weekday,Sooji Upma and Peanut Chutney,119,456,473,595,1687,False,False,1643
+2022-06-16,weekday,"Pao, Bhaji and Mix Fruit",101,520,324,511,1471,False,False,1456
+2022-06-17,weekday,Vermicelli Upma and Mix Fruits,96,459,377,552,1516,False,False,1484
+2022-06-18,weekend,Vermicelli Upma and Mix Fruits,109,473,376,470,1465,False,False,1428
+2022-06-19,weekend,"Aloo Paratha, Curd, Orange",120,504,440,595,1703,False,False,1659
+2022-06-20,weekday,"Aloo Paratha, Curd, Orange",92,410,463,580,1567,False,False,1545
+2022-06-21,weekday,"Aloo Paratha, Curd, Orange",111,513,337,540,1517,False,False,1501
+2022-06-22,weekday,"Pao, Bhaji and Mix Fruit",94,507,439,502,1553,False,False,1542
+2022-06-23,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",78,467,393,548,1520,False,False,1486
+2022-06-24,weekday,"Pao, Bhaji and Mix Fruit",115,400,425,574,1542,False,False,1514
+2022-06-25,weekend,"Aloo Paratha, Curd, Orange",16,581,300,540,1482,False,False,1437
+2022-06-26,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",24,561,386,569,1550,False,False,1540
+2022-06-27,weekday,Sooji Upma and Peanut Chutney,128,485,363,567,1590,False,False,1543
+2022-06-28,weekday,Vermicelli Upma and Mix Fruits,97,477,342,563,1518,False,False,1479
+2022-06-29,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",129,450,412,460,1493,False,False,1451
+2022-06-30,weekday,"Pao, Bhaji and Mix Fruit",118,496,404,580,1615,False,False,1598
+2022-07-01,weekday,"Poha, Egg Bhurji, Mix Fruit",88,502,453,579,1667,False,False,1622
+2022-07-02,weekend,Sooji Upma and Peanut Chutney,120,560,338,499,1560,False,False,1517
+2022-07-03,weekend,Vermicelli Upma and Mix Fruits,114,484,375,490,1492,False,False,1463
+2022-07-04,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",130,559,435,472,1623,False,False,1596
+2022-07-05,weekday,Vermicelli Upma and Mix Fruits,82,536,307,511,1446,False,False,1436
+2022-07-06,weekday,"Pao, Bhaji and Mix Fruit",111,572,487,598,1805,False,False,1768
+2022-07-07,weekday,"Poori Matar Masala, Boiled Egg and Banana",127,571,489,512,1744,False,False,1699
+2022-07-08,weekday,Sooji Upma and Peanut Chutney,115,445,347,539,1459,False,False,1446
+2022-07-09,weekend,"Aloo Paratha, Curd, Orange",111,523,349,599,1613,False,False,1582
+2022-07-10,weekend,Sooji Upma and Peanut Chutney,88,590,373,458,1533,False,False,1509
+2022-07-11,weekday,Sooji Upma and Peanut Chutney,105,459,441,563,1591,False,False,1568
+2022-07-12,weekday,"Poori Matar Masala, Boiled Egg and Banana",98,470,415,460,1471,False,False,1443
+2022-07-13,weekday,"Aloo Paratha, Curd, Orange",54,336,228,324,988,True,True,942
+2022-07-14,weekday,"Pao, Bhaji and Mix Fruit",90,578,311,539,1556,False,False,1518
+2022-07-15,weekday,Vermicelli Upma and Mix Fruits,124,584,447,506,1693,False,False,1661
+2022-07-16,weekend,"Aloo Paratha, Curd, Orange",73,452,334,460,1345,False,False,1319
+2022-07-17,weekend,"Aloo Paratha, Curd, Orange",19,584,316,591,1546,False,False,1510
+2022-07-18,weekday,"Aloo Paratha, Curd, Orange",77,589,406,596,1703,False,False,1668
+2022-07-19,weekday,Sooji Upma and Peanut Chutney,97,405,455,459,1428,False,False,1416
+2022-07-20,weekday,"Poori Matar Masala, Boiled Egg and Banana",98,504,487,523,1624,False,False,1612
+2022-07-21,weekday,"Aloo Paratha, Curd, Orange",91,459,300,459,1339,False,False,1309
+2022-07-22,weekday,Sooji Upma and Peanut Chutney,92,497,359,488,1453,False,False,1436
+2022-07-23,weekend,"Poha, Egg Bhurji, Mix Fruit",84,425,375,536,1453,False,False,1420
+2022-07-24,weekend,"Poha, Egg Bhurji, Mix Fruit",95,479,450,574,1618,False,False,1598
+2022-07-25,weekday,"Poori Matar Masala, Boiled Egg and Banana",129,507,327,539,1530,False,False,1502
+2022-07-26,weekday,Sooji Upma and Peanut Chutney,110,519,381,538,1570,False,False,1548
+2022-07-27,weekday,"Pao, Bhaji and Mix Fruit",79,548,315,548,1535,False,False,1490
+2022-07-28,weekday,"Pao, Bhaji and Mix Fruit",77,415,307,592,1436,False,False,1391
+2022-07-29,weekday,"Aloo Paratha, Curd, Orange",115,482,418,540,1577,False,False,1555
+2022-07-30,weekend,"Aloo Paratha, Curd, Orange",105,464,474,596,1662,False,False,1639
+2022-07-31,weekend,Vermicelli Upma and Mix Fruits,73,479,318,481,1382,False,False,1351
+2022-08-01,weekday,Sooji Upma and Peanut Chutney,123,516,357,474,1495,False,False,1470
+2022-08-02,weekday,"Poha, Egg Bhurji, Mix Fruit",102,473,399,572,1558,False,False,1546
+2022-08-03,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",116,596,452,471,1665,False,False,1635
+2022-08-04,weekday,"Pao, Bhaji and Mix Fruit",117,600,386,510,1658,False,False,1613
+2022-08-05,weekday,"Aloo Paratha, Curd, Orange",117,464,446,478,1530,False,False,1505
+2022-08-06,weekend,"Pao, Bhaji and Mix Fruit",72,502,494,468,1559,False,False,1536
+2022-08-07,weekend,"Pao, Bhaji and Mix Fruit",102,405,410,474,1403,False,False,1391
+2022-08-08,weekday,Sooji Upma and Peanut Chutney,85,491,500,557,1678,False,False,1633
+2022-08-09,weekday,Vermicelli Upma and Mix Fruits,101,525,349,576,1564,False,False,1551
+2022-08-10,weekday,"Pao, Bhaji and Mix Fruit",82,523,432,536,1604,False,False,1573
+2022-08-11,weekday,Vermicelli Upma and Mix Fruits,102,552,431,590,1720,False,False,1675
+2022-08-12,weekday,Vermicelli Upma and Mix Fruits,113,572,366,586,1671,False,False,1637
+2022-08-13,weekend,"Aloo Paratha, Curd, Orange",30,558,305,538,1466,False,False,1431
+2022-08-14,weekend,"Poori Matar Masala, Boiled Egg and Banana",66,592,410,525,1617,False,False,1593
+2022-08-15,weekday,"Poha, Egg Bhurji, Mix Fruit",87,443,401,518,1487,False,False,1449
+2022-08-16,weekday,"Pao, Bhaji and Mix Fruit",112,458,497,573,1681,False,False,1640
+2022-08-17,weekday,Vermicelli Upma and Mix Fruits,130,544,453,487,1647,False,False,1614
+2022-08-18,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",107,401,391,571,1488,False,False,1470
+2022-08-19,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",110,429,385,512,1469,False,False,1436
+2022-08-20,weekend,"Poori Matar Masala, Boiled Egg and Banana",19,500,323,502,1367,False,False,1344
+2022-08-21,weekend,"Aloo Paratha, Curd, Orange",107,573,493,460,1668,False,False,1633
+2022-08-22,weekday,"Aloo Paratha, Curd, Orange",83,443,326,551,1436,False,False,1403
+2022-08-23,weekday,"Pao, Bhaji and Mix Fruit",77,595,470,572,1761,False,False,1714
+2022-08-24,weekday,"Poha, Egg Bhurji, Mix Fruit",111,560,409,559,1668,False,False,1639
+2022-08-25,weekday,"Poha, Egg Bhurji, Mix Fruit",113,546,415,528,1634,False,False,1602
+2022-08-26,weekday,Sooji Upma and Peanut Chutney,116,402,307,582,1440,False,False,1407
+2022-08-27,weekend,"Pao, Bhaji and Mix Fruit",29,257,268,302,896,True,True,856
+2022-08-28,weekend,"Poori Matar Masala, Boiled Egg and Banana",105,569,322,455,1477,False,False,1451
+2022-08-29,weekday,"Pao, Bhaji and Mix Fruit",99,578,321,466,1508,False,False,1464
+2022-08-30,weekday,"Pao, Bhaji and Mix Fruit",102,495,387,541,1544,False,False,1525
+2022-08-31,weekday,"Pao, Bhaji and Mix Fruit",122,570,312,584,1637,False,False,1588
+2022-09-01,weekday,"Pao, Bhaji and Mix Fruit",82,419,431,497,1451,False,False,1429
+2022-09-02,weekday,"Aloo Paratha, Curd, Orange",110,432,354,501,1409,False,False,1397
+2022-09-03,weekend,"Poha, Egg Bhurji, Mix Fruit",122,548,462,457,1599,False,False,1589
+2022-09-04,weekend,Vermicelli Upma and Mix Fruits,124,471,345,467,1446,False,False,1407
+2022-09-05,weekday,Sooji Upma and Peanut Chutney,83,501,325,507,1466,False,False,1416
+2022-09-06,weekday,Vermicelli Upma and Mix Fruits,103,412,331,559,1424,False,False,1405
+2022-09-07,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",96,513,396,494,1516,False,False,1499
+2022-09-08,weekday,"Poori Matar Masala, Boiled Egg and Banana",89,502,415,570,1588,False,False,1576
+2022-09-09,weekday,"Poori Matar Masala, Boiled Egg and Banana",107,542,412,551,1650,False,False,1612
+2022-09-10,weekend,"Pao, Bhaji and Mix Fruit",80,497,392,598,1592,False,False,1567
+2022-09-11,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",122,534,418,579,1700,False,False,1653
+2022-09-12,weekday,"Poha, Egg Bhurji, Mix Fruit",99,488,344,519,1482,False,False,1450
+2022-09-13,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",114,443,376,545,1521,False,False,1478
+2022-09-14,weekday,"Poha, Egg Bhurji, Mix Fruit",125,587,319,530,1595,False,False,1561
+2022-09-15,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",109,593,491,469,1688,False,False,1662
+2022-09-16,weekday,Sooji Upma and Peanut Chutney,57,283,258,358,975,True,True,956
+2022-09-17,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",30,414,472,595,1525,False,False,1511
+2022-09-18,weekend,"Poha, Egg Bhurji, Mix Fruit",20,436,377,515,1368,False,False,1348
+2022-09-19,weekday,"Aloo Paratha, Curd, Orange",113,581,410,595,1732,False,False,1699
+2022-09-20,weekday,Vermicelli Upma and Mix Fruits,96,453,338,514,1447,False,False,1401
+2022-09-21,weekday,Sooji Upma and Peanut Chutney,109,411,470,535,1563,False,False,1525
+2022-09-22,weekday,"Pao, Bhaji and Mix Fruit",98,518,307,571,1505,False,False,1494
+2022-09-23,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",128,459,409,478,1492,False,False,1474
+2022-09-24,weekend,"Poha, Egg Bhurji, Mix Fruit",95,532,386,577,1623,False,False,1590
+2022-09-25,weekend,"Poori Matar Masala, Boiled Egg and Banana",1,416,322,469,1236,False,False,1208
+2022-09-26,weekday,"Pao, Bhaji and Mix Fruit",114,502,308,507,1443,False,False,1431
+2022-09-27,weekday,Sooji Upma and Peanut Chutney,46,297,263,364,1011,True,True,970
+2022-09-28,weekday,Sooji Upma and Peanut Chutney,124,552,385,567,1652,False,False,1628
+2022-09-29,weekday,"Poori Matar Masala, Boiled Egg and Banana",76,547,419,554,1645,False,False,1596
+2022-09-30,weekday,"Poha, Egg Bhurji, Mix Fruit",75,436,386,534,1453,False,False,1431
+2022-10-01,weekend,Sooji Upma and Peanut Chutney,70,563,500,518,1674,False,False,1651
+2022-10-02,weekend,"Aloo Paratha, Curd, Orange",14,574,300,484,1390,False,False,1372
+2022-10-03,weekday,"Poha, Egg Bhurji, Mix Fruit",104,410,482,503,1516,False,False,1499
+2022-10-04,weekday,Sooji Upma and Peanut Chutney,116,556,387,460,1541,False,False,1519
+2022-10-05,weekday,"Poori Matar Masala, Boiled Egg and Banana",108,401,493,534,1584,False,False,1536
+2022-10-06,weekday,Vermicelli Upma and Mix Fruits,130,564,303,535,1581,False,False,1532
+2022-10-07,weekday,"Pao, Bhaji and Mix Fruit",121,513,325,565,1558,False,False,1524
+2022-10-08,weekend,Sooji Upma and Peanut Chutney,23,594,412,517,1568,False,False,1546
+2022-10-09,weekend,"Poori Matar Masala, Boiled Egg and Banana",128,555,440,542,1681,False,False,1665
+2022-10-10,weekday,"Aloo Paratha, Curd, Orange",97,470,336,571,1520,False,False,1474
+2022-10-11,weekday,"Poha, Egg Bhurji, Mix Fruit",118,581,485,592,1799,False,False,1776
+2022-10-12,weekday,"Poha, Egg Bhurji, Mix Fruit",121,508,348,570,1564,False,False,1547
+2022-10-13,weekday,Vermicelli Upma and Mix Fruits,97,460,495,504,1592,False,False,1556
+2022-10-14,weekday,"Pao, Bhaji and Mix Fruit",92,539,444,487,1583,False,False,1562
+2022-10-15,weekend,"Pao, Bhaji and Mix Fruit",41,400,349,596,1400,False,False,1386
+2022-10-16,weekend,Vermicelli Upma and Mix Fruits,28,476,370,600,1500,False,False,1474
+2022-10-17,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",92,472,361,474,1413,False,False,1399
+2022-10-18,weekday,Sooji Upma and Peanut Chutney,60,299,204,309,907,True,True,872
+2022-10-19,weekday,"Poha, Egg Bhurji, Mix Fruit",99,496,321,481,1434,False,False,1397
+2022-10-20,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",128,524,481,562,1705,False,False,1695
+2022-10-21,weekday,"Pao, Bhaji and Mix Fruit",120,531,406,541,1609,False,False,1598
+2022-10-22,weekend,"Poha, Egg Bhurji, Mix Fruit",102,478,448,455,1511,False,False,1483
+2022-10-23,weekend,"Poha, Egg Bhurji, Mix Fruit",63,538,417,597,1633,False,False,1615
+2022-10-24,weekday,"Aloo Paratha, Curd, Orange",120,445,435,494,1544,False,False,1494
+2022-10-25,weekday,Vermicelli Upma and Mix Fruits,114,533,452,454,1572,False,False,1553
+2022-10-26,weekday,"Poha, Egg Bhurji, Mix Fruit",90,519,483,527,1638,False,False,1619
+2022-10-27,weekday,Vermicelli Upma and Mix Fruits,121,499,446,551,1628,False,False,1617
+2022-10-28,weekday,Vermicelli Upma and Mix Fruits,89,585,479,499,1672,False,False,1652
+2022-10-29,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",110,424,349,551,1451,False,False,1434
+2022-10-30,weekend,"Pao, Bhaji and Mix Fruit",62,316,274,356,1052,True,True,1008
+2022-10-31,weekday,Sooji Upma and Peanut Chutney,127,499,472,463,1605,False,False,1561
+2022-11-01,weekday,"Poori Matar Masala, Boiled Egg and Banana",115,486,313,454,1381,False,False,1368
+2022-11-02,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",84,508,424,544,1602,False,False,1560
+2022-11-03,weekday,Vermicelli Upma and Mix Fruits,108,473,322,573,1517,False,False,1476
+2022-11-04,weekday,"Poha, Egg Bhurji, Mix Fruit",107,461,303,498,1416,False,False,1369
+2022-11-05,weekend,"Poori Matar Masala, Boiled Egg and Banana",93,530,462,517,1636,False,False,1602
+2022-11-06,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",102,541,395,486,1560,False,False,1524
+2022-11-07,weekday,"Aloo Paratha, Curd, Orange",104,511,477,553,1679,False,False,1645
+2022-11-08,weekday,"Aloo Paratha, Curd, Orange",98,412,451,535,1519,False,False,1496
+2022-11-09,weekday,"Pao, Bhaji and Mix Fruit",114,558,373,544,1619,False,False,1589
+2022-11-10,weekday,Vermicelli Upma and Mix Fruits,88,491,422,495,1538,False,False,1496
+2022-11-11,weekday,"Poori Matar Masala, Boiled Egg and Banana",103,498,402,561,1578,False,False,1564
+2022-11-12,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",76,581,420,467,1590,False,False,1544
+2022-11-13,weekend,Vermicelli Upma and Mix Fruits,40,426,474,590,1553,False,False,1530
+2022-11-14,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",77,560,428,588,1699,False,False,1653
+2022-11-15,weekday,"Aloo Paratha, Curd, Orange",105,536,334,488,1486,False,False,1463
+2022-11-16,weekday,Vermicelli Upma and Mix Fruits,107,576,498,545,1752,False,False,1726
+2022-11-17,weekday,"Aloo Paratha, Curd, Orange",127,535,413,571,1673,False,False,1646
+2022-11-18,weekday,"Poori Matar Masala, Boiled Egg and Banana",91,514,428,495,1548,False,False,1528
+2022-11-19,weekend,"Poha, Egg Bhurji, Mix Fruit",89,572,429,458,1586,False,False,1548
+2022-11-20,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",111,501,416,560,1618,False,False,1588
+2022-11-21,weekday,"Aloo Paratha, Curd, Orange",49,303,281,307,990,True,True,940
+2022-11-22,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",117,412,312,529,1420,False,False,1370
+2022-11-23,weekday,Sooji Upma and Peanut Chutney,129,461,380,469,1457,False,False,1439
+2022-11-24,weekday,"Pao, Bhaji and Mix Fruit",106,453,461,561,1591,False,False,1581
+2022-11-25,weekday,"Aloo Paratha, Curd, Orange",78,465,456,467,1505,False,False,1466
+2022-11-26,weekend,Sooji Upma and Peanut Chutney,53,281,206,363,937,True,True,903
+2022-11-27,weekend,"Poori Matar Masala, Boiled Egg and Banana",61,480,494,475,1552,False,False,1510
+2022-11-28,weekday,Vermicelli Upma and Mix Fruits,95,492,321,544,1471,False,False,1452
+2022-11-29,weekday,"Pao, Bhaji and Mix Fruit",104,539,314,468,1439,False,False,1425
+2022-11-30,weekday,"Pao, Bhaji and Mix Fruit",79,593,458,544,1696,False,False,1674
+2022-12-01,weekday,"Poori Matar Masala, Boiled Egg and Banana",98,596,334,493,1543,False,False,1521
+2022-12-02,weekday,"Aloo Paratha, Curd, Orange",109,482,489,561,1675,False,False,1641
+2022-12-03,weekend,"Poha, Egg Bhurji, Mix Fruit",65,504,399,465,1478,False,False,1433
+2022-12-04,weekend,"Aloo Paratha, Curd, Orange",110,458,474,472,1533,False,False,1514
+2022-12-05,weekday,"Poha, Egg Bhurji, Mix Fruit",114,474,398,551,1554,False,False,1537
+2022-12-06,weekday,Sooji Upma and Peanut Chutney,93,442,414,552,1517,False,False,1501
+2022-12-07,weekday,"Pao, Bhaji and Mix Fruit",110,438,437,582,1587,False,False,1567
+2022-12-08,weekday,Sooji Upma and Peanut Chutney,78,577,423,540,1659,False,False,1618
+2022-12-09,weekday,"Poori Matar Masala, Boiled Egg and Banana",109,566,364,523,1589,False,False,1562
+2022-12-10,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",124,422,495,493,1578,False,False,1534
+2022-12-11,weekend,"Poori Matar Masala, Boiled Egg and Banana",50,422,363,566,1435,False,False,1401
+2022-12-12,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",77,451,417,597,1586,False,False,1542
+2022-12-13,weekday,Sooji Upma and Peanut Chutney,80,412,465,544,1514,False,False,1501
+2022-12-14,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",75,540,477,510,1623,False,False,1602
+2022-12-15,weekday,Sooji Upma and Peanut Chutney,119,485,416,527,1592,False,False,1547
+2022-12-16,weekday,Vermicelli Upma and Mix Fruits,88,502,355,599,1565,False,False,1544
+2022-12-17,weekend,Sooji Upma and Peanut Chutney,61,269,194,325,877,True,True,849
+2022-12-18,weekend,Sooji Upma and Peanut Chutney,6,281,255,354,934,True,True,896
+2022-12-19,weekday,"Aloo Paratha, Curd, Orange",120,414,427,545,1549,False,False,1506
+2022-12-20,weekday,Vermicelli Upma and Mix Fruits,76,457,320,553,1448,False,False,1406
+2022-12-21,weekday,"Aloo Paratha, Curd, Orange",129,456,366,564,1562,False,False,1515
+2022-12-22,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",93,427,337,452,1355,False,False,1309
+2022-12-23,weekday,"Poha, Egg Bhurji, Mix Fruit",102,460,451,487,1536,False,False,1500
+2022-12-24,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",1,486,472,465,1436,False,False,1424
+2022-12-25,weekend,"Poori Matar Masala, Boiled Egg and Banana",79,513,417,546,1577,False,False,1555
+2022-12-26,weekday,"Pao, Bhaji and Mix Fruit",65,249,249,288,896,True,True,851
+2022-12-27,weekday,"Pao, Bhaji and Mix Fruit",85,587,357,589,1628,False,False,1618
+2022-12-28,weekday,"Poha, Egg Bhurji, Mix Fruit",112,429,307,476,1342,False,False,1324
+2022-12-29,weekday,"Poori Matar Masala, Boiled Egg and Banana",115,427,447,580,1586,False,False,1569
+2022-12-30,weekday,"Poha, Egg Bhurji, Mix Fruit",125,578,327,562,1634,False,False,1592
+2022-12-31,weekend,"Poori Matar Masala, Boiled Egg and Banana",63,584,349,518,1557,False,False,1514
+2023-01-01,weekend,"Pao, Bhaji and Mix Fruit",21,494,405,515,1450,False,False,1435
+2023-01-02,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",107,532,475,470,1596,False,False,1584
+2023-01-03,weekday,Vermicelli Upma and Mix Fruits,103,518,345,575,1590,False,False,1541
+2023-01-04,weekday,"Aloo Paratha, Curd, Orange",79,524,344,583,1542,False,False,1530
+2023-01-05,weekday,"Poha, Egg Bhurji, Mix Fruit",94,539,421,534,1604,False,False,1588
+2023-01-06,weekday,"Poori Matar Masala, Boiled Egg and Banana",128,584,485,497,1705,False,False,1694
+2023-01-07,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",29,539,456,554,1627,False,False,1578
+2023-01-08,weekend,Vermicelli Upma and Mix Fruits,68,491,493,464,1546,False,False,1516
+2023-01-09,weekday,"Poha, Egg Bhurji, Mix Fruit",85,443,487,587,1615,False,False,1602
+2023-01-10,weekday,"Aloo Paratha, Curd, Orange",108,600,359,500,1598,False,False,1567
+2023-01-11,weekday,Sooji Upma and Peanut Chutney,75,513,476,474,1549,False,False,1538
+2023-01-12,weekday,"Aloo Paratha, Curd, Orange",113,540,344,490,1514,False,False,1487
+2023-01-13,weekday,"Poori Matar Masala, Boiled Egg and Banana",83,552,346,599,1626,False,False,1580
+2023-01-14,weekend,"Poha, Egg Bhurji, Mix Fruit",21,442,409,565,1473,False,False,1437
+2023-01-15,weekend,"Aloo Paratha, Curd, Orange",56,479,490,515,1551,False,False,1540
+2023-01-16,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",94,530,377,493,1523,False,False,1494
+2023-01-17,weekday,"Poori Matar Masala, Boiled Egg and Banana",90,511,433,497,1550,False,False,1531
+2023-01-18,weekday,"Pao, Bhaji and Mix Fruit",99,526,379,555,1569,False,False,1559
+2023-01-19,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",75,456,475,497,1551,False,False,1503
+2023-01-20,weekday,"Aloo Paratha, Curd, Orange",93,409,353,519,1424,False,False,1374
+2023-01-21,weekend,Sooji Upma and Peanut Chutney,26,461,339,528,1395,False,False,1354
+2023-01-22,weekend,Sooji Upma and Peanut Chutney,102,470,464,558,1618,False,False,1594
+2023-01-23,weekday,"Poori Matar Masala, Boiled Egg and Banana",79,599,337,460,1499,False,False,1475
+2023-01-24,weekday,Vermicelli Upma and Mix Fruits,120,552,333,555,1608,False,False,1560
+2023-01-25,weekday,"Poori Matar Masala, Boiled Egg and Banana",95,585,347,468,1536,False,False,1495
+2023-01-26,weekday,"Poori Matar Masala, Boiled Egg and Banana",108,503,355,458,1468,False,False,1424
+2023-01-27,weekday,"Poha, Egg Bhurji, Mix Fruit",103,541,401,505,1571,False,False,1550
+2023-01-28,weekend,Vermicelli Upma and Mix Fruits,121,409,385,519,1461,False,False,1434
+2023-01-29,weekend,Sooji Upma and Peanut Chutney,23,427,340,512,1313,False,False,1302
+2023-01-30,weekday,"Pao, Bhaji and Mix Fruit",129,451,475,578,1653,False,False,1633
+2023-01-31,weekday,Vermicelli Upma and Mix Fruits,96,469,353,586,1525,False,False,1504
+2023-02-01,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",82,454,403,460,1440,False,False,1399
+2023-02-02,weekday,"Poha, Egg Bhurji, Mix Fruit",79,431,411,510,1480,False,False,1431
+2023-02-03,weekday,"Poha, Egg Bhurji, Mix Fruit",125,548,473,480,1667,False,False,1626
+2023-02-04,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",112,564,438,477,1633,False,False,1591
+2023-02-05,weekend,"Poha, Egg Bhurji, Mix Fruit",21,464,343,543,1402,False,False,1371
+2023-02-06,weekday,Sooji Upma and Peanut Chutney,49,295,203,307,872,True,True,854
+2023-02-07,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",90,471,394,508,1494,False,False,1463
+2023-02-08,weekday,"Aloo Paratha, Curd, Orange",99,431,328,565,1455,False,False,1423
+2023-02-09,weekday,"Pao, Bhaji and Mix Fruit",87,536,446,451,1539,False,False,1520
+2023-02-10,weekday,Sooji Upma and Peanut Chutney,106,426,345,551,1466,False,False,1428
+2023-02-11,weekend,"Aloo Paratha, Curd, Orange",27,477,338,599,1477,False,False,1441
+2023-02-12,weekend,"Poha, Egg Bhurji, Mix Fruit",6,420,497,471,1414,False,False,1394
+2023-02-13,weekday,"Aloo Paratha, Curd, Orange",100,523,335,547,1550,False,False,1505
+2023-02-14,weekday,"Aloo Paratha, Curd, Orange",75,597,300,490,1479,False,False,1462
+2023-02-15,weekday,"Pao, Bhaji and Mix Fruit",81,478,336,541,1471,False,False,1436
+2023-02-16,weekday,"Aloo Paratha, Curd, Orange",114,473,318,578,1526,False,False,1483
+2023-02-17,weekday,"Poha, Egg Bhurji, Mix Fruit",109,570,449,539,1681,False,False,1667
+2023-02-18,weekend,"Poha, Egg Bhurji, Mix Fruit",23,444,425,450,1368,False,False,1342
+2023-02-19,weekend,"Poha, Egg Bhurji, Mix Fruit",28,409,374,563,1406,False,False,1374
+2023-02-20,weekday,Vermicelli Upma and Mix Fruits,109,452,466,490,1541,False,False,1517
+2023-02-21,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",113,440,381,465,1427,False,False,1399
+2023-02-22,weekday,"Pao, Bhaji and Mix Fruit",116,555,352,471,1505,False,False,1494
+2023-02-23,weekday,"Aloo Paratha, Curd, Orange",96,520,428,579,1660,False,False,1623
+2023-02-24,weekday,"Poori Matar Masala, Boiled Egg and Banana",110,455,351,482,1417,False,False,1398
+2023-02-25,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",79,482,379,518,1485,False,False,1458
+2023-02-26,weekend,"Pao, Bhaji and Mix Fruit",119,551,444,591,1750,False,False,1705
+2023-02-27,weekday,Vermicelli Upma and Mix Fruits,92,574,394,554,1646,False,False,1614
+2023-02-28,weekday,Sooji Upma and Peanut Chutney,103,483,469,495,1586,False,False,1550
+2023-03-01,weekday,"Poori Matar Masala, Boiled Egg and Banana",101,580,402,580,1689,False,False,1663
+2023-03-02,weekday,"Pao, Bhaji and Mix Fruit",109,495,437,598,1655,False,False,1639
+2023-03-03,weekday,"Aloo Paratha, Curd, Orange",85,591,379,492,1590,False,False,1547
+2023-03-04,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",8,500,385,466,1407,False,False,1359
+2023-03-05,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",101,436,326,521,1401,False,False,1384
+2023-03-06,weekday,"Poha, Egg Bhurji, Mix Fruit",92,523,416,567,1634,False,False,1598
+2023-03-07,weekday,"Pao, Bhaji and Mix Fruit",106,540,433,546,1639,False,False,1625
+2023-03-08,weekday,Vermicelli Upma and Mix Fruits,57,318,223,303,933,True,True,901
+2023-03-09,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",109,445,473,539,1609,False,False,1566
+2023-03-10,weekday,Vermicelli Upma and Mix Fruits,115,513,302,486,1434,False,False,1416
+2023-03-11,weekend,"Pao, Bhaji and Mix Fruit",88,574,382,550,1623,False,False,1594
+2023-03-12,weekend,Vermicelli Upma and Mix Fruits,37,585,336,520,1513,False,False,1478
+2023-03-13,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",124,445,371,491,1479,False,False,1431
+2023-03-14,weekday,"Pao, Bhaji and Mix Fruit",109,459,491,558,1641,False,False,1617
+2023-03-15,weekday,Vermicelli Upma and Mix Fruits,85,440,340,524,1415,False,False,1389
+2023-03-16,weekday,"Pao, Bhaji and Mix Fruit",92,417,319,526,1383,False,False,1354
+2023-03-17,weekday,"Aloo Paratha, Curd, Orange",111,491,431,538,1601,False,False,1571
+2023-03-18,weekend,"Poha, Egg Bhurji, Mix Fruit",0,506,406,552,1499,False,False,1464
+2023-03-19,weekend,"Poori Matar Masala, Boiled Egg and Banana",78,408,306,586,1423,False,False,1378
+2023-03-20,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",85,492,363,525,1480,False,False,1465
+2023-03-21,weekday,Vermicelli Upma and Mix Fruits,116,408,493,589,1652,False,False,1606
+2023-03-22,weekday,"Poori Matar Masala, Boiled Egg and Banana",87,468,431,563,1560,False,False,1549
+2023-03-23,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",80,466,323,539,1436,False,False,1408
+2023-03-24,weekday,Vermicelli Upma and Mix Fruits,85,446,474,548,1592,False,False,1553
+2023-03-25,weekend,"Aloo Paratha, Curd, Orange",13,402,444,550,1423,False,False,1409
+2023-03-26,weekend,"Ajwani Paratha, Aloo Tamatar, Banana",50,543,390,475,1493,False,False,1458
+2023-03-27,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",92,439,468,557,1587,False,False,1556
+2023-03-28,weekday,"Pao, Bhaji and Mix Fruit",75,534,362,548,1553,False,False,1519
+2023-03-29,weekday,"Pao, Bhaji and Mix Fruit",102,509,422,533,1596,False,False,1566
+2023-03-30,weekday,"Poha, Egg Bhurji, Mix Fruit",116,585,417,566,1725,False,False,1684
+2023-03-31,weekday,"Ajwani Paratha, Aloo Tamatar, Banana",114,579,321,462,1495,False,False,1476
